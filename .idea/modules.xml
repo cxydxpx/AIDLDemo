@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocalAIDL.iml" filepath="$PROJECT_DIR$/LocalAIDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localaidl/localaidl.iml" filepath="$PROJECT_DIR$/localaidl/localaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteaidl/remoteaidl.iml" filepath="$PROJECT_DIR$/remoteaidl/remoteaidl.iml" />
+    </modules>
+  </component>
+</project>
