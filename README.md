@@ -3,8 +3,7 @@
 ##1.服务的创建
 ###1.创建一个类继承自Service（或它的子类，如IntentService）,重写里面比较关键的回调方法
 	如 ： 1.onStartCommand()  正常启动
-		   
-		  2.onBind()  绑定启动
+	      2.onBind()  绑定启动
 ###2.清单文件中声明服务
 	在Manifest文件中声明的时候，只有android:name属性是必须有的
 	
